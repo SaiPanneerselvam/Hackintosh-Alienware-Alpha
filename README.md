@@ -1,4 +1,4 @@
-<img width="827" height="125" alt="image" src="https://github.com/user-attachments/assets/21a1a9c8-6006-4c8d-942c-c1454de7b347" /># Hackintosh EFI for 2015 Alienware Alpha
+# Hackintosh EFI for 2015 Alienware Alpha
 Hackintosh EFI using OpenCore Bootloader for Alienware Alpha. 
 ### How to setup
 - Go to `releases/oc`, or simply go to the Releases tab in the bottom right.
